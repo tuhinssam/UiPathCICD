@@ -2,18 +2,72 @@
   "Packages": [
     {
       "Package": {
-        "Id": "UiPath.WebAPI.Activities",
-        "Version": "1.4.5"
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.8.6"
       },
       "Assemblies": [
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\restsharp/106.3.1\\lib/net452/RestSharp.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.webapi.activities/1.4.5\\lib/net452/UiPath.Web.Activities.Design.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.webapi.activities/1.4.5\\lib/net452/UiPath.Web.Activities.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.webapi.activities/1.4.5\\lib/net452/UiPath.Web.dll"
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.excel.activities/2.8.6\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.excel.activities/2.8.6\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.excel.activities/2.8.6\\lib/net461/UiPath.Excel.dll"
       ],
-      "Path": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.webapi.activities\\1.4.5"
+      "Path": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.excel.activities\\2.8.6"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.GSuite.Activities",
+        "Version": "1.5.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis/1.44.0\\lib/net45/Google.Apis.PlatformServices.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis/1.44.0\\lib/net45/Google.Apis.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.auth/1.44.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.auth/1.44.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.calendar.v3/1.44.0.1872\\lib/net45/Google.Apis.Calendar.v3.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.core/1.44.0\\lib/net45/Google.Apis.Core.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.docs.v1/1.44.0.1877\\lib/net45/Google.Apis.Docs.v1.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.drive.v3/1.44.0.1863\\lib/net45/Google.Apis.Drive.v3.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.gmail.v1/1.44.0.1859\\lib/net45/Google.Apis.Gmail.v1.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.script.v1/1.44.0.1882\\lib/net45/Google.Apis.Script.v1.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.sheets.v4/1.44.0.1877\\lib/net45/Google.Apis.Sheets.v4.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\microsoft.applicationinsights/2.3.0\\lib/net46/Microsoft.ApplicationInsights.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\mimekit/2.5.1\\lib/net46/MimeKit.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\nodatime/2.4.7\\lib/net45/NodaTime.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.gsuite.activities/1.5.1\\lib/net461/UiPath.GSuite.Activities.Design.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.gsuite.activities/1.5.1\\lib/net461/UiPath.GSuite.Activities.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.gsuite.activities/1.5.1\\lib/net461/UiPath.GSuite.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.gsuite.activities/1.5.1\\lib/net461/UiPath.Orchestrator.dll"
+      ],
+      "Path": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.gsuite.activities\\1.5.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.8.6"
+      },
+      "Assemblies": [
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.8.6\\lib/net461/MailKit.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.8.6\\lib/net461/MimeKit.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.8.6\\lib/net461/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.8.6\\lib/net461/UiPath.Mail.Activities.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.8.6\\lib/net461/UiPath.Mail.dll"
+      ],
+      "Path": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities\\1.8.6"
     },
     {
       "Package": {
@@ -91,72 +145,18 @@
     },
     {
       "Package": {
-        "Id": "UiPath.Mail.Activities",
-        "Version": "1.8.6"
+        "Id": "UiPath.WebAPI.Activities",
+        "Version": "1.4.5"
       },
       "Assemblies": [
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.8.6\\lib/net461/MailKit.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.8.6\\lib/net461/MimeKit.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.8.6\\lib/net461/UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.8.6\\lib/net461/UiPath.Mail.Activities.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities/1.8.6\\lib/net461/UiPath.Mail.dll"
-      ],
-      "Path": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.mail.activities\\1.8.6"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Excel.Activities",
-        "Version": "2.8.6"
-      },
-      "Assemblies": [
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.excel.activities/2.8.6\\lib/net461/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.excel.activities/2.8.6\\lib/net461/UiPath.Excel.Activities.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.excel.activities/2.8.6\\lib/net461/UiPath.Excel.dll"
-      ],
-      "Path": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.excel.activities\\2.8.6"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.GSuite.Activities",
-        "Version": "1.5.1"
-      },
-      "Assemblies": [
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis/1.44.0\\lib/net45/Google.Apis.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis/1.44.0\\lib/net45/Google.Apis.PlatformServices.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.auth/1.44.0\\lib/net45/Google.Apis.Auth.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.auth/1.44.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.calendar.v3/1.44.0.1872\\lib/net45/Google.Apis.Calendar.v3.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.core/1.44.0\\lib/net45/Google.Apis.Core.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.docs.v1/1.44.0.1877\\lib/net45/Google.Apis.Docs.v1.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.drive.v3/1.44.0.1863\\lib/net45/Google.Apis.Drive.v3.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.gmail.v1/1.44.0.1859\\lib/net45/Google.Apis.Gmail.v1.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.script.v1/1.44.0.1882\\lib/net45/Google.Apis.Script.v1.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.sheets.v4/1.44.0.1877\\lib/net45/Google.Apis.Sheets.v4.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\microsoft.applicationinsights/2.3.0\\lib/net46/Microsoft.ApplicationInsights.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\mimekit/2.5.1\\lib/net46/MimeKit.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
         "C:\\Users\\tuhin.samanta\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\nodatime/2.4.7\\lib/net45/NodaTime.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.gsuite.activities/1.5.1\\lib/net461/UiPath.GSuite.Activities.Design.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.gsuite.activities/1.5.1\\lib/net461/UiPath.GSuite.Activities.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.gsuite.activities/1.5.1\\lib/net461/UiPath.GSuite.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.gsuite.activities/1.5.1\\lib/net461/UiPath.Orchestrator.dll"
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\restsharp/106.3.1\\lib/net452/RestSharp.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.webapi.activities/1.4.5\\lib/net452/UiPath.Web.Activities.Design.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.webapi.activities/1.4.5\\lib/net452/UiPath.Web.Activities.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.webapi.activities/1.4.5\\lib/net452/UiPath.Web.dll"
       ],
-      "Path": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.gsuite.activities\\1.5.1"
+      "Path": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\uipath.webapi.activities\\1.4.5"
     }
   ],
   "Conflicts": [],
@@ -727,8 +727,8 @@
         "Version": "1.44.0"
       },
       "Assemblies": [
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis\\1.44.0\\lib\\net45\\Google.Apis.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis\\1.44.0\\lib\\net45\\Google.Apis.PlatformServices.dll"
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis\\1.44.0\\lib\\net45\\Google.Apis.PlatformServices.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis\\1.44.0\\lib\\net45\\Google.Apis.dll"
       ],
       "Path": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis\\1.44.0"
     },
@@ -738,8 +738,8 @@
         "Version": "1.44.0"
       },
       "Assemblies": [
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.auth\\1.44.0\\lib\\net45\\Google.Apis.Auth.dll",
-        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.auth\\1.44.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll"
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.auth\\1.44.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.auth\\1.44.0\\lib\\net45\\Google.Apis.Auth.dll"
       ],
       "Path": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\google.apis.auth\\1.44.0"
     },
